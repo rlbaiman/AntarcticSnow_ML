@@ -1,0 +1,19 @@
+#!/bin/bash
+
+#SBATCH --qos=preemptable
+#SBATCH --nodes=1
+#SBATCH --mem=120G
+#SBATCH --ntasks-per-node=3
+#SBATCH --time=2:00:00
+#SBATCH --gres=gpu:a100:1
+#SBATCH --output=train_then_test.log
+#SBATCH --job-name=train_then_test
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user="rebecca.baiman@colorado.edu"
+
+module purge
+module load anaconda
+
+conda activate ML_gpu
+
+python train_then_test.py
