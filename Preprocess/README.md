@@ -1,4 +1,4 @@
-# Making Data
+# Preprocessing Data
 * From MERRA2 data, create netcdf files for each day 1980-2019 with input variables and total snowfall for that day. Much of this is done in steps because of limited memory.
 ### 1. [Select input variables and Levels](https://github.com/rlbaiman/AntarcticSnow_ML/blob/main/Preprocess/1_Select_Variable_Level.py)
 * Select the variables you would like to use as input data at the vertical levels you choose and save as yearly data. 
