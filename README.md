@@ -7,4 +7,4 @@
 * Notebook for analyzing results
 * Final model training and results
 ### 3. Analysis
-* Figure 1: [a relative link](Model_results.ipynb)
+* Figure 1: [Model_results.ipynb](https://github.com/rlbaiman/AntarcticSnow_ML/blob/main/Model_Develop_Train/Model_results.ipynb)
