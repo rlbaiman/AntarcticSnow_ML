@@ -12,3 +12,4 @@
 * Supplementary Figure 1: [Model_results.ipynb](https://github.com/rlbaiman/AntarcticSnow_ML/blob/main/Model_Develop_Train/Model_results.ipynb)
 * Supplementary Figure 2: [Top_Snow_composites.ipynb](https://github.com/rlbaiman/AntarcticSnow_ML/blob/main/Analysis/Centered_Composites/Top_Snow_composties.ipynb)
 * Supplementary Figure 3: [Centered_Snowfall.ipynb](https://github.com/rlbaiman/AntarcticSnow_ML/blob/main/Analysis/Centered_Snowfall/Centered_Snowfall.ipynb)
+* Supplementary Figure 5: [SHAP_analysis.ipynb](https://github.com/rlbaiman/AntarcticSnow_ML/blob/main/Analysis/Supplementary_SHAP/SHAP_analysis.ipynb)
